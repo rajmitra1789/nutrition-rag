@@ -47,6 +47,36 @@ _WEIGHT_CALORIE_PATTERNS = [
     re.compile(r"\bwhat(?:'s| is) a (?:good|healthy) weight for (?:me|him|her|them)\b", re.I),
 ]
 
+# Personal health conditions and personal medical guidance. Condition words
+# alone are allowed ("what does WHO say about cholesterol"); they refuse only
+# with first-person framing or treatment intent. "kidney beans" is food.
+_CONDITION = (
+    r"(?:diabet(?:es|ic)|pregnan(?:t|cy)|breastfeeding|hypertension|"
+    r"high blood pressure|(?:high )?cholesterol|kidney(?!\s+beans?\b)(?: disease)?|"
+    r"heart disease|cancer|thyroid|pcos|ibs|c(?:o)?eliac|allerg(?:y|ies|ic)|"
+    r"lactose intoleran(?:t|ce))"
+)
+_FIRST_PERSON = (
+    r"(?:i am|i'm|im|i have|i've|i've got|i was|i got|i suffer from|"
+    r"i'm being treated for|my (?:\w+ ){0,2})"
+)
+
+_PERSONAL_HEALTH_PATTERNS = [
+    # "I have diabetes", "I am pregnant", "my high cholesterol", "my wife is pregnant"
+    re.compile(rf"\b{_FIRST_PERSON}[^.?!]{{0,40}}?\b{_CONDITION}\b", re.I),
+    # "should I eat ..." anywhere alongside a condition word
+    re.compile(rf"^(?=.*\b(?:should|can|could|may) i (?:eat|drink|have)\b)(?=.*\b{_CONDITION}\b)", re.I | re.S),
+    # "I am allergic", "my allergy", "I'm lactose intolerant"
+    re.compile(r"\b(?:i am|i'm|im) (?:\w+ )?(?:allergic|lactose intolerant)\b", re.I),
+    re.compile(r"\bmy (?:\w+ )?(?:allergy|allergies|intolerance)\b", re.I),
+    # Treatment words that are personal on their own
+    re.compile(r"\b(?:medications?|medicines?|my doctor|my gp|prescribed|diagnosed)\b", re.I),
+    re.compile(r"\b(?:my|i have|i've got) (?:\w+ )?symptoms?\b", re.I),
+    # "treat" and "cure" also mean a sweet snack and preserving meat, so they
+    # refuse only when aimed at a condition.
+    re.compile(rf"\b(?:treat(?:s|ing|ment)?|cur(?:e|es|ing))\b[^.?!]{{0,30}}?\b{_CONDITION}\b", re.I),
+]
+
 OUT_OF_SCOPE_MESSAGE = (
     "I cannot help with medical advice, personal calorie targets, or what anyone "
     "should weigh. Those questions need a qualified professional such as a "
@@ -60,7 +90,7 @@ def classify_scope(query: str) -> Refusal | None:
     text = query.strip()
     if not text:
         return None
-    for pattern in _MEDICAL_PATTERNS + _WEIGHT_CALORIE_PATTERNS:
+    for pattern in _MEDICAL_PATTERNS + _PERSONAL_HEALTH_PATTERNS + _WEIGHT_CALORIE_PATTERNS:
         if pattern.search(text):
             return Refusal(kind="out_of_scope", message=OUT_OF_SCOPE_MESSAGE)
     return None

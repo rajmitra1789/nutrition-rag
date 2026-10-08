@@ -1,6 +1,8 @@
 """Guardrails must fire in code, not only in the model prompt."""
 
-from src.answer.guardrails import classify_scope, not_in_corpus_refusal
+import pytest
+
+from src.answer.guardrails import OUT_OF_SCOPE_MESSAGE, classify_scope, not_in_corpus_refusal
 
 
 def test_refuses_personal_calorie_target():
@@ -28,12 +30,33 @@ def test_allows_document_questions_about_fat_and_oil():
     assert classify_scope("How long can leftover pizza stay in the fridge?") is None
 
 
-def test_unmatched_phrasing_is_not_refused_by_the_regex():
-    """The regex list is fixed. Phrasings it misses still reach retrieval.
+@pytest.mark.parametrize(
+    "query",
+    [
+        "I have diabetes, what should I eat?",
+        "I am pregnant, is it safe to eat raw eggs?",
+        "what can I eat to cure high blood pressure",
+        "my doctor prescribed a low salt diet, what should I eat",
+    ],
+)
+def test_refuses_personal_health_conditions(query):
+    refusal = classify_scope(query)
+    assert refusal is not None
+    assert refusal.kind == "out_of_scope"
+    assert refusal.message == OUT_OF_SCOPE_MESSAGE
 
-    The system prompt also forbids medical advice. That line is not the enforcement.
-    """
-    assert classify_scope("I have diabetes, what should I eat?") is None
+
+@pytest.mark.parametrize(
+    "query",
+    [
+        "How long can I keep eggs in the fridge?",
+        "What does the guidance say about cooking oil?",
+        "What does WHO say about salt?",
+        "What does WHO say about sodium?",
+    ],
+)
+def test_general_questions_pass_through(query):
+    assert classify_scope(query) is None
 
 
 def test_not_in_corpus_names_searched_documents():
