@@ -75,6 +75,31 @@ _PERSONAL_HEALTH_PATTERNS = [
     # "treat" and "cure" also mean a sweet snack and preserving meat, so they
     # refuse only when aimed at a condition.
     re.compile(rf"\b(?:treat(?:s|ing|ment)?|cur(?:e|es|ing))\b[^.?!]{{0,30}}?\b{_CONDITION}\b", re.I),
+    # Third-person and population framing: "a diabetic", "people with diabetes"
+    re.compile(
+        r"\b(?:an? diabetic|diabetics|diabetic (?:people|persons?|patients?|adults|children|kids|women|men))\b",
+        re.I,
+    ),
+    re.compile(
+        rf"\b(?:people|persons?|someone|anyone|those|patients?|adults|children|kids|women|men) "
+        rf"(?:with|who have|living with|suffering from) {_CONDITION}\b",
+        re.I,
+    ),
+    re.compile(
+        r"\b(?:(?:during|in) pregnancy|(?:while|when|if) pregnant|"
+        r"pregnant (?:women|woman|mothers?|people|ladies)|expect(?:ant|ing) mothers?)\b",
+        re.I,
+    ),
+    re.compile(
+        rf"\bmy (?:mom|mum|mother|dad|father|wife|husband|partner|child|kid|son|daughter|baby) "
+        rf"(?:is|has|was|got)\b[^.?!]{{0,30}}?\b{_CONDITION}\b",
+        re.I,
+    ),
+    # "what should a diabetic eat", "what can a pregnant woman eat"
+    re.compile(
+        rf"\bwhat (?:should|can|could) (?:a|an) (?:\w+ ){{0,2}}?{_CONDITION}\b[^.?!]{{0,20}}?\b(?:eat|drink|have)\b",
+        re.I,
+    ),
 ]
 
 OUT_OF_SCOPE_MESSAGE = (

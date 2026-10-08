@@ -49,6 +49,25 @@ def test_refuses_personal_health_conditions(query):
 @pytest.mark.parametrize(
     "query",
     [
+        "What should a diabetic eat?",
+        "Is raw egg safe during pregnancy?",
+        "My mom is diabetic, what can she eat?",
+        "What can pregnant women eat?",
+    ],
+)
+def test_refuses_third_person_and_population_health_framing(query):
+    refusal = classify_scope(query)
+    assert refusal is not None
+    assert refusal.kind == "out_of_scope"
+    assert refusal.message == OUT_OF_SCOPE_MESSAGE
+
+
+@pytest.mark.parametrize(
+    "query",
+    [
+        "How long can I keep kidney beans?",
+        "Is a sweet treat ok for kids?",
+        "How do you cure ham safely?",
         "How long can I keep eggs in the fridge?",
         "What does the guidance say about cooking oil?",
         "What does WHO say about salt?",
