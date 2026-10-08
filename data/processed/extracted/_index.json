@@ -1,0 +1,86 @@
+[
+  {
+    "doc_id": "icmr_nin_my_plate",
+    "document_name": "My Plate for the Day",
+    "publisher": "ICMR-National Institute of Nutrition, India",
+    "year": 2024,
+    "source_url": "https://www.nin.res.in/brief/Policy%20Brief%20My%20Plate%20J18%2024.pdf",
+    "retrieval_date": "2026-10-05",
+    "raw_file": "icmr_nin_my_plate_2024.pdf",
+    "extracted_file": "icmr_nin_my_plate.md",
+    "kept": "policy-brief prose and plate table",
+    "dropped": "author block, page chrome, suggested citation"
+  },
+  {
+    "doc_id": "sfa_reusing_cooking_oils",
+    "document_name": "Reusing Cooking Oils",
+    "publisher": "Singapore Food Agency",
+    "year": 2024,
+    "source_url": "https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/reusing-cooking-oils",
+    "retrieval_date": "2026-10-05",
+    "raw_file": "sfa_reusing_oils.html",
+    "extracted_file": "sfa_reusing_cooking_oils.md",
+    "kept": "guidance sections through consumer tips",
+    "dropped": "navigation, references, related publications"
+  },
+  {
+    "doc_id": "who_healthy_diet",
+    "document_name": "Healthy diet",
+    "publisher": "World Health Organization",
+    "year": 2026,
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "retrieval_date": "2026-10-05",
+    "raw_file": "who_healthy_diet.html",
+    "extracted_file": "who_healthy_diet.md",
+    "kept": "key facts through how to promote healthy diets",
+    "dropped": "WHO response, resources, related news"
+  },
+  {
+    "doc_id": "who_sfa_tfa_guideline",
+    "document_name": "Saturated fatty acid and trans-fatty acid intake for adults and children: WHO guideline",
+    "publisher": "World Health Organization",
+    "year": 2023,
+    "source_url": "https://www.who.int/publications/i/item/9789240073630",
+    "retrieval_date": "2026-10-05",
+    "raw_file": "who_sfa_tfa_guideline_summary.txt",
+    "extracted_file": "who_sfa_tfa_guideline.md",
+    "kept": "recommendations, remarks, implementation",
+    "dropped": "copyright front matter, methods, GRADE evidence, rationale, reference list"
+  },
+  {
+    "doc_id": "eatwell_guide",
+    "document_name": "The Eatwell Guide",
+    "publisher": "Office for Health Improvement and Disparities (OHID), GOV.UK",
+    "year": 2024,
+    "source_url": "https://www.gov.uk/government/publications/the-eatwell-guide",
+    "retrieval_date": "2026-10-05",
+    "raw_file": "eatwell_quick_guide.pdf",
+    "extracted_file": "eatwell_guide.md",
+    "kept": "Eatwell food-group guidance and supplement advice",
+    "dropped": "cover, PHE about page, contents, artwork plate, daily energy/calorie targets, further information, references"
+  },
+  {
+    "doc_id": "health_canada_recommendations",
+    "document_name": "Healthy eating recommendations",
+    "publisher": "Health Canada",
+    "year": 2019,
+    "source_url": "https://www.canada.ca/en/health-canada/services/food-guide/explore/healthy-eating-recommendations.html",
+    "retrieval_date": "2026-10-05",
+    "raw_file": "context (1).htm",
+    "extracted_file": "health_canada_recommendations.md",
+    "kept": "2019 recommendation list from the saved canada.ca page",
+    "dropped": "site chrome, download link, publication sidebar, recipe footer; the PDF is the same page print"
+  },
+  {
+    "doc_id": "foodsafety_cold_storage",
+    "document_name": "Cold Food Storage Charts",
+    "publisher": "FoodSafety.gov (U.S. government)",
+    "year": 2023,
+    "source_url": "https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts",
+    "retrieval_date": "2026-10-05",
+    "raw_file": "foodsafety_cold_storage.pdf",
+    "extracted_file": "foodsafety_cold_storage.md",
+    "kept": "intro plus complete per-category storage tables",
+    "dropped": "site chrome, FoodKeeper promo, download link, page footers"
+  }
+]

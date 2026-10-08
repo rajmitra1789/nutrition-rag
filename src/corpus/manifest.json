@@ -1,0 +1,75 @@
+{
+  "retrieval_date": "2026-10-05",
+  "documents": [
+    {
+      "doc_id": "icmr_nin_my_plate",
+      "document_name": "My Plate for the Day",
+      "publisher": "ICMR-National Institute of Nutrition, India",
+      "year": 2024,
+      "source_url": "https://www.nin.res.in/brief/Policy%20Brief%20My%20Plate%20J18%2024.pdf",
+      "format": "pdf",
+      "extracted_file": "icmr_nin_my_plate.md",
+      "notes": "4-page policy brief. Suggested citation inside the PDF is 2023; the published file is dated J18 24. Corpus year follows the source listing (2024)."
+    },
+    {
+      "doc_id": "sfa_reusing_cooking_oils",
+      "document_name": "Reusing Cooking Oils",
+      "publisher": "Singapore Food Agency",
+      "year": 2024,
+      "source_url": "https://www.sfa.gov.sg/food-safety-tips/food-risk-concerns/risk-at-a-glance/reusing-cooking-oils",
+      "format": "html",
+      "extracted_file": "sfa_reusing_cooking_oils.md",
+      "notes": "Page dated 11 Oct 2024."
+    },
+    {
+      "doc_id": "who_healthy_diet",
+      "document_name": "Healthy diet",
+      "publisher": "World Health Organization",
+      "year": 2026,
+      "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "format": "html",
+      "extracted_file": "who_healthy_diet.md",
+      "notes": "WHO fact sheet. Written guidance sections only; related-news chrome omitted."
+    },
+    {
+      "doc_id": "who_sfa_tfa_guideline",
+      "document_name": "Saturated fatty acid and trans-fatty acid intake for adults and children: WHO guideline",
+      "publisher": "World Health Organization",
+      "year": 2023,
+      "source_url": "https://www.who.int/publications/i/item/9789240073630",
+      "format": "pdf_summary",
+      "extracted_file": "who_sfa_tfa_guideline.md",
+      "notes": "Official WHO guideline summary (ISBN 978-92-4-008359-2), which WHO states is extracted directly from the full guideline and is identical to that content. Methods pages and the reference list are omitted so retrieval stays on recommendations and remarks."
+    },
+    {
+      "doc_id": "eatwell_guide",
+      "document_name": "The Eatwell Guide",
+      "publisher": "Office for Health Improvement and Disparities (OHID), GOV.UK",
+      "year": 2024,
+      "source_url": "https://www.gov.uk/government/publications/the-eatwell-guide",
+      "format": "pdf",
+      "extracted_file": "eatwell_guide.md",
+      "notes": "Written-prose companion: A Quick Guide to the Government's Healthy Eating Recommendations (PHE, 2018), hosted on the Eatwell Guide publication page last updated 2 January 2024. Visual plate artwork is not ingested."
+    },
+    {
+      "doc_id": "health_canada_recommendations",
+      "document_name": "Healthy eating recommendations",
+      "publisher": "Health Canada",
+      "year": 2019,
+      "source_url": "https://www.canada.ca/en/health-canada/services/food-guide/explore/healthy-eating-recommendations.html",
+      "format": "html",
+      "extracted_file": "health_canada_recommendations.md",
+      "notes": "Canada's food guide healthy eating recommendations (Pub. 180394, January 2019). The saved page is the recommendation list only. Supporting pages are not in data/raw."
+    },
+    {
+      "doc_id": "foodsafety_cold_storage",
+      "document_name": "Cold Food Storage Charts",
+      "publisher": "FoodSafety.gov (U.S. government)",
+      "year": 2023,
+      "source_url": "https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts",
+      "format": "html",
+      "extracted_file": "foodsafety_cold_storage.md",
+      "notes": "Date last reviewed 19 September 2023. The large chart is stored as complete per-food-category tables so rows are never split."
+    }
+  ]
+}

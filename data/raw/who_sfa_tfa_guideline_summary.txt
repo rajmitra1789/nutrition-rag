@@ -1,0 +1,864 @@
+Saturated fatty acid
+and trans-fatty acid intake
+for adults and children
+
+WHO guideline summary
+
+YZa\\, World Health
+XS) orcanivat
+SEY Organization
+
+Saturated fatty acid and trans-fatty acid intake for adults and children: WHO guideline summary
+ISBN 978-92-4-008359-2 (electronic version)
+ISBN 978-92-4-008360-8 (print version)
+© World Health Organization 2023
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 
+3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). 
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, 
+provided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion 
+that WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. 
+If you adapt the work, then you must license your work under the same or equivalent Creative Commons licence. 
+If you create a translation of this work, you should add the following disclaimer along with the suggested citation: 
+“This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content 
+or accuracy of this translation. The original English edition shall be the binding and authentic edition”. 
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation 
+rules of the World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/).
+Suggested citation. Saturated fatty acid and trans-fatty acid intake for adults and children: WHO guideline 
+summary. Geneva: World Health Organization; 2023. Licence: CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at https://iris.who.int/.
+Sales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders. 
+To submit requests for commercial use and queries on rights and licensing, see https://www.who.int/copyright. 
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as 
+tables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and 
+to obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-partyowned component in the work rests solely with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not 
+imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, 
+territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and 
+dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed 
+or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions 
+excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. 
+However, the published material is being distributed without warranty of any kind, either expressed or implied. 
+The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be 
+liable for damages arising from its use. 
+Cover illustration by Adele Jackson
+iii
+Guideline summary 1
+Background 1
+Objective, scope and methods 2
+The evidence 3
+Recommendations and supporting information 6
+Translation and implementation 12
+References 14
+Contents
+iv
+Note
+This document is a summary of a WHO guideline, the full version of which is available only in English 
+and can be accessed at https://www.who.int/publications/i/item/9789240073630. This summary 
+document does not contain all of the information found in the full guideline, but what it does contain 
+has been extracted directly from the full guideline and is therefore identical to the information found 
+in the full guideline. Anywhere in this summary document where “this guideline” or “the guideline” is 
+used in the text, it refers to the full guideline document.
+1
+Guideline summary
+Background
+Noncommunicable diseases (NCDs) are the world’s leading cause of death, responsible for an estimated 
+41 million of the 55 million deaths in 2019 (1). Nearly half of these deaths were premature (i.e. in people 
+aged less than 70 years) and occurred in low- and middle-income countries. Of the major NCDs, 
+cardiovascular diseases (CVDs) were the leading cause of mortality in 2019, responsible for more than 
+18 million deaths (2). Modifiable risk factors such as unhealthy diets, physical inactivity, tobacco use 
+and harmful use of alcohol are major risk factors for CVDs. Dietary saturated fatty acids (SFA) and 
+trans-fatty acids (TFA) are of particular concern because high levels of intake have been correlated with 
+increased risk of CVDs (3).
+SFA are fatty acids containing only single carbon–carbon bonds (i.e. no double bonds). They are found 
+primarily in foods from animal sources (e.g. dairy foods, meat, egg yolks, hard fats), as well as in some 
+plant-derived fats and oils.
+TFA are unsaturated fatty acids with at least one double carbon–carbon bond in the trans configuration. 
+TFA can be produced industrially by the partial hydrogenation of vegetable and fish oils, but also occur 
+naturally in meat and dairy products from ruminant animals (e.g. cattle, sheep, goats, camels) as a result 
+of the conversion of cis double bonds in unsaturated fatty acids to the trans position by bacterial enzymes 
+in the stomach (rumen) of the animals. Although the sources are different, the individual isomers in 
+industrially produced and ruminant TFA are largely the same, but present in differing proportions (4–6). 
+Industrially produced TFA are the predominant source of dietary TFA in many populations. They can be 
+found in partially hydrogenated cooking oils and fats which are often used at home, in restaurants, or in 
+the informal sector (e.g. street vendors), and in ready-made baked and fried foods (e.g. doughnuts, cookies, 
+crackers and pies) and other pre-packaged snacks and foods. Although current intakes of ruminant TFA 
+are generally low, ruminant TFA may become the predominant dietary source of TFA in populations where 
+industrially produced TFA are being phased out of the food supply (7–9).
+Reduced intake of SFA has been associated with a significant reduction in the risk of coronary heart disease 
+when SFA are replaced with polyunsaturated fatty acids or carbohydrates from whole grains (10–13). 
+However, an apparent lack of effect is often observed in studies in which the macronutrients replacing SFA 
+are unknown, are not accounted for or consist largely of refined carbohydrates (10, 13–15). Studies have also 
+demonstrated that high intakes of industrially produced TFA are strongly associated with increased risk of 
+coronary heart disease and related mortality (16, 17). Few studies have identified an association between 
+intake of ruminant TFA and CVDs; however, to date, ruminant TFA intake in most study populations has been 
+very low (18). Efforts to understand the effects of SFA intake in greater detail have shown that individual SFA 
+may have differing effects on blood lipids (19). In addition, growing evidence has led to the suggestion that 
+different SFA-containing foods, such as dairy foods, may have differential effects on risk of CVDs and type 
+2 diabetes, as a result of either differing compositions of SFAs across foods, other constituents of the foods 
+(i.e. the “food matrix”) or a combination of the two (20–26).
+The reduction in CVD risk observed with decreased intake of SFA and TFA is believed to occur primarily 
+through an effect on blood lipids, because intakes of both are associated with increases in levels of total 
+cholesterol and low-density lipoprotein (LDL) cholesterol (19, 27), and decreases in high-density lipoprotein 
+(HDL) cholesterol in the case of TFA (27). Other physiological mechanisms, such as inflammation, may also 
+play a role (28, 29). Increased total cholesterol is associated with increased risk of coronary heart disease (30). 
+LDL cholesterol is a well-established surrogate end-point (i.e. biomarker) for measuring the effects of 
+2
+interventions on CVD risk (31, 32), and is considered by many to be a causal factor for atherosclerosis 
+and coronary heart disease (33). Other lipid measures – such as non-HDL cholesterol, triglycerides, 
+cholesterol ratios and cholesterol particle number – have also been suggested as possible predictors 
+of CVD risk.
+Although CVDs typically present later in life, preclinical signs of atherosclerosis in the form of 
+atherosclerotic lesions in the aorta and coronary arteries can begin to appear in childhood (34, 35), 
+and are positively associated with abnormal blood lipid levels and other CVD risk factors (36, 37). 
+Elevated total and LDL cholesterol in childhood are associated with an increase in CVD risk factors in 
+adulthood (38), including thickening of the carotid artery intima-media (39–41), which is a marker of 
+subclinical atherosclerosis and a predictor of future cardiovascular events (42). Dietary intervention 
+studies conducted in children have demonstrated significant reductions in total or LDL cholesterol 
+when SFA were replaced with polyunsaturated fatty acids (43–48). Despite the positive effect of such 
+replacement on blood lipids, concern has been raised about the possible negative impact of a reduced-fat 
+diet or a diet intended to reduce blood lipids on normal growth and development in children (49, 50), 
+although the primary concern has generally been the potential for inadequate caloric or micronutrient 
+intake rather than any effects related to SFA itself.
+Studies of TFA intake in children are limited; nevertheless, there is no evidence to suggest that the effects on 
+blood lipids would be different from those observed in adults, and intake may therefore lead to preclinical 
+signs of atherosclerosis (34–37), as described in the preceding paragraph.
+Despite longstanding dietary advice to limit SFA intake and a limited number of focused efforts to reduce 
+intake at the population level, SFA intake remains high in many parts of the world (51). And while more 
+consistent efforts to reduce the level of industrially produced TFA in the food supply at the local to national 
+levels have led to decreased intake in some countries (52), the global average intake of TFA in 2010 (51)
+was estimated to exceed the population nutrient intake goal of 1% of total energy intake established by 
+the 1989 World Health Organization (WHO) Study Group on Diet, Nutrition and the Prevention of Chronic 
+Diseases (53) and updated by the 2002 Joint WHO/Food and Agriculture Organization of the United 
+Nations (FAO) Expert Consultation on Diet, Nutrition and the Prevention of Chronic Diseases (3). Efforts 
+to reduce the level of industrially produced TFA in the food supply received a boost in 2018, when their 
+elimination was identified as one of the priority targets in the WHO 13th General Programme of Work. The 
+WHO REPLACE action package was launched in 2018 to help countries eliminate industrially produced TFA 
+from their food supplies.1
+Objective, scope and methods
+The objective of this guideline is to provide updated guidance on the intake of SFA and TFA, to be used by 
+policy-makers, programme managers, health professionals and other stakeholders in efforts to promote 
+healthy diets. The guideline was developed by the WHO Nutrition Guidance Expert Advisory Group (NUGAG) 
+Subgroup on Diet and Health following the WHO guideline development process, as outlined in the 
+WHO handbook for guideline development (54). This process includes a review of systematically gathered 
+evidence by an international, multidisciplinary group of experts; assessment of the quality of that evidence 
+via the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework2; 
+and consideration of additional, potentially mitigating factors3 when translating the evidence into 
+recommendations. The guideline was reviewed by a group of external experts and feedback was solicited 
+from interested stakeholders during public consultations. The guidance in this guideline replaces previous 
+WHO guidance on SFA and TFA intake, including that from the 1989 WHO Study Group on Diet, Nutrition and 
+the Prevention of Chronic Diseases (53) and the 2002 Joint WHO/FAO Expert Consultation on Diet, Nutrition 
+and the Prevention of Chronic Diseases (3).
+1 https://www.who.int/teams/nutrition-and-food-safety/replace-trans-fat 2 http://www.gradeworkinggroup.org/ 3 These include desirable and undesirable effects of the intervention, priority of the problem that the recommendation 
+addresses, values and preferences related to the recommendation in different settings, the cost of the options available 
+to public health officials and programme managers in different settings, feasibility and acceptability of implementing the 
+recommendation in different settings, and the potential impact on equity and human rights.
+3
+The evidence
+SFA
+Evidence from recent systematic reviews of randomized controlled trials (RCTs) and prospective 
+observational studies conducted in adults (55–57) suggests the following.
+▶ Lowering SFA intake reduces low-density lipoprotein (LDL) cholesterol (high certainty evidence)1 and 
+CVD risk (moderate certainty evidence), and may be associated with reduced risk of all-cause mortality 
+(i.e. death from any cause) and coronary heart disease (both very low certainty evidence).
+▶ Consuming 10% or less of daily calories (i.e. total energy intake) as SFA reduces LDL cholesterol (high
+certainty evidence), is associated with reduced risk of all-cause mortality (low certainty evidence), and 
+may be associated with reduced risk of coronary heart disease (very low certainty evidence).
+▶ Replacing SFA with unsaturated fatty acids and carbohydrates lowers LDL cholesterol (high certainty 
+evidence) and is associated with reduced risk of all-cause mortality (low to moderate certainty evidence).
+▶ Replacing SFA with polyunsaturated fatty acids, monounsaturated fatty acids from plant-based foods, 
+and carbohydrates from foods containing naturally occurring dietary fibre (e.g. whole grains, vegetables, 
+fruits, pulses) is associated with additional health benefits including reduced risk of coronary heart 
+disease (very low to low certainty evidence).
+▶ Replacing SFA with mixed protein or animal protein (but not plant protein) is associated with an increase 
+in risk of coronary heart disease (very low to low certainty evidence).
+Although beneficial effects of lowering SFA intake were not observed for all outcomes assessed, there was no 
+indication that lower SFA intake increased risk for any critical outcome (except when SFA were replaced by mixed 
+or animal protein), nor were there any other significant undesirable effects identified in the systematic reviews.
+Evidence from a systematic review of RCTs conducted in children (58) found that reducing SFA intake reduced 
+total cholesterol, LDL cholesterol and diastolic blood pressure (high certainty evidence). A small number of 
+trials suggest that the effect was strongest when SFA were replaced primarily with polyunsaturated fatty 
+acids or a mixture of polyunsaturated fatty acids and monounsaturated fatty acids, and when SFA intake was 
+reduced to a level less than 10% of total energy intake (high certainty evidence). Significant effects were not 
+observed for other outcomes, and there were no indications of any adverse effects from reduced SFA intake.
+TFA
+Evidence from recent systematic reviews of RCTs and prospective observational studies conducted in 
+adults (56, 59) suggests the following.
+▶ Lowering TFA intake reduces LDL cholesterol (high certainty evidence), and is associated with reduced 
+risk of all-cause mortality, CVDs and coronary heart disease (low to moderate certainty evidence).
+▶ Consuming 1% or less of total energy intake as TFA reduces LDL cholesterol (high certainty evidence), is 
+associated with reduced risk of CVDs and coronary heart disease (low certainty evidence), and may be 
+associated with reduced risk of all-cause mortality (very low certainty evidence).
+▶ Replacing TFA with unsaturated fatty acids and carbohydrates lowers LDL cholesterol (high certainty 
+evidence) and is associated with reduced risk of all-cause mortality. Replacing TFA with monounsaturated fatty acids from plant-based foods is associated with reduced risk of coronary heart disease 
+(low certainty evidence).
+▶ Replacing TFA with either carbohydrates or polyunsaturated fatty acids is associated with reduced risk 
+of type 2 diabetes (moderate and very low certainty evidence, respectively).
+1 Based on the grades of evidence set by the GRADE Working Group. High certainty means that we are very confident that 
+the true effect lies close to that of the estimate of the effect; moderate certainty means that we are moderately confident 
+in the effect estimate – the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is 
+substantially different; low certainty means that our confidence in the effect estimate is limited – the true effect may be 
+substantially different from the estimate of the effect; and very low certainty means that we have very little confidence in the 
+effect estimate – the true effect is likely to be substantially different from the estimate of the effect (54).
+4
+There were no indications of any adverse effects from reduced TFA intake.
+No studies were identified that met the inclusion criteria established for the systematic review of TFA intake 
+in children (58).
+Additional evidence reviewed
+Additional evidence was reviewed and is summarized below, although the NUGAG Subgroup on Diet and 
+Health did not use it to support the formulation of recommendations for the reasons given in the section 
+Interpreting the evidence for SFA.
+Tissue measurements of SFA intake
+In addition to studies in which SFA intake was self-reported (via 24-hour recall, food diaries, food frequency 
+questionnaires, etc.), the systematic review of observational studies (56) also identified studies in which 
+intake was assessed by measuring total SFA in tissues of the body (e.g. plasma phospholipids, red blood cells, 
+fat biopsies). Meta-analyses of observational studies assessing total SFA intake via tissue measurements 
+found that lower intake is associated with a 31% reduction in the risk of coronary heart disease (95% CI: 
+0.51 to 0.91) and a 23% reduction in the risk of type 2 diabetes (95% CI: 0.63 to 0.94). Several studies also 
+assessed the intake of individual SFA via tissue measurement, as described below.
+Individual SFA intake
+The systematic review and meta-analyses of observational studies included studies that assessed individual SFA 
+intake via tissue measurement (56), including lauric acid (12:0), myristic acid (14:0), pentadecanoic acid (15:0), 
+palmitic acid (16:0), heptadecanoic acid (17:0), stearic acid (18:0) and very long chain fatty acids (i.e. longer than 
+18 carbons) of different length. Data for all-cause mortality and CVDs were limited, and consistent associations 
+were not observed between individual SFA and these outcomes. Increased intake of pentadecanoic acid, 
+heptadecanoic acid and very long chain SFA were strongly associated with reduced risk of type 2 diabetes, 
+whereas increased intake of palmitic acid was strongly associated with increased risk of type 2 diabetes.
+The effects of individual SFA (lauric acid, myristic acid, palmitic acid and stearic acid) on blood lipids were 
+also assessed in the systematic review and multiple regression analyses of blood lipids, as the effects 
+of isocalorically replacing a mixture of carbohydrates with these individual SFA (58). Replacement of 
+carbohydrates with lauric acid, myristic acid or palmitic acid all significantly raised total, LDL and HDL 
+cholesterol (with the magnitude of effect decreasing in the order myristic > palmitic > lauric), and lowered 
+triglyceride levels and the triglyceride to HDL cholesterol ratio. Lauric acid lowered the total cholesterol to 
+HDL cholesterol ratio and the LDL cholesterol to HDL cholesterol ratio. Stearic acid did not have a significant 
+effect on any outcome assessed. Although differences were observed in effects of the individual SFA on 
+the lipid profile, reported intakes of lauric acid and myristic acid in the individual trials included in the 
+regression analysis were low (mean of 1.2% of total energy intake), which may have influenced the results.
+Interpreting the evidence 
+Several observations were made in interpreting the results of the systematic reviews, some based directly 
+on data from the review and others supported by background questions and information that helps to 
+establish the context for the recommendation (54). They are summarized below.
+SFA
+Replacement nutrients. The NUGAG Subgroup on Diet and Health reaffirmed what has been previously 
+noted in the literature, that is, associations between lower SFA intake and relevant health outcomes are 
+limited or generally not observed when the nutrients replacing SFA are not specified. In the systematic 
+reviews assessed for this guideline, the only effect observed when replacement nutrients were not 
+accounted for was on CVDs as assessed in RCTs; no effects were seen for other disease outcomes. Only 
+when specific replacement nutrients were assessed were significant associations observed. This suggests 
+that, in studies where no association is observed between lower SFA intake and reduced risk of disease, the 
+nutrients replacing SFA may themselves increase the risk of disease and therefore may mask any benefit of 
+5
+reducing SFA intake. Consequently, choice of replacement nutrient is key to obtaining a health benefit from 
+reducing SFA intake.
+Extrapolating results from adults to children. Although ample evidence was available from studies in 
+children, the NUGAG Subgroup on Diet and Health considered the available evidence for cardiovascular, 
+mortality and blood lipid outcomes from adults to also be relevant to children, given that preclinical signs of 
+atherosclerosis in the form of atherosclerotic lesions in the aorta and coronary arteries can begin to appear 
+in childhood (34, 35); these changes are positively associated with abnormal blood lipid levels and other 
+CVD risk factors (36, 37). Therefore, in formulating recommendations for children, the NUGAG Subgroup on 
+Diet and Health considered not only the evidence from direct assessments in children but also the evidence 
+for adults, without downgrading for indirectness.
+Tissue measurement of SFA intake. Although data were available for both self-reported intakes of SFA 
+and estimates of intake based on tissue levels of SFA, there were more studies that included self-reported 
+data on total SFA intake, and these data were generally more robust. In addition, although assessment of 
+SFA in tissues can be a fairly reliable indicator of dietary intake, the potential contribution of endogenous 
+synthesis cannot be consistently estimated. Therefore, using a conservative approach, the evidence from 
+tissue levels was not included in the evidence base supporting the recommendations for SFA intake, even 
+though these results are in line with the results and conclusions from self-reported intakes, as well as the 
+other reviews assessed for these guidelines.
+Individual SFA. Significant associations were observed between certain individual SFA (as assessed by tissue 
+levels) and type 2 diabetes, and differences were observed between individual SFA with respect to their effects 
+on blood lipids, with the exception of stearic acid (which showed little effect on blood lipids). However, results 
+observed for associations between individual SFA and disease outcomes were consistent with the results 
+observed for total SFA – that is, none of the statistically non-significant effects observed for individual SFA 
+suggested benefit with increased intake, but some suggested harm. In addition, as noted above, the NUGAG 
+Subgroup on Diet and Health had concerns with tissue measurements because of the inability to ensure 
+consistent measurement of endogenous synthesis of SFA, as well as with the low reported intakes of lauric acid 
+and myristic acid in the blood lipids analyses. Finally, there was no evidence available from RCTs assessing the 
+effects of consuming individual SFA on disease outcomes. It was therefore concluded that further research is 
+needed before recommendations on the intake of individual SFA can be made.
+TFA
+Total, industrially produced and ruminant TFA. As per the original PICO questions, results were generated 
+for total TFA intake,1 and separately for industrially produced and ruminant TFA intake for both the metaanalyses of observational studies and regression analyses of RCTs and blood lipids. In the meta-analyses of 
+prospective observational studies, results for total and industrially produced TFA intake were similar for risk of 
+coronary heart disease, but not for all-cause mortality or CVDs, for which only total TFA intake demonstrated 
+a significant association between reduced intake and reduced risk. No associations were observed for the 
+analysis of studies reporting effects of ruminant TFA intake.2 In the regression analysis of RCTs, reduced intake 
+of total TFA or industrially produced TFA was associated with a beneficial effect on the blood lipid profile, 
+regardless of which nutrient was used as a replacement. A significant effect of reducing ruminant TFA intake 
+on lowering LDL cholesterol was only observed when ruminant TFA were replaced with polyunsaturated fatty 
+acids. For all other blood lipid outcomes, results were not statistically significant; however, they were similar 
+to those for total and industrially produced TFA in both direction and magnitude.3
+1 For the meta-analysis of prospective cohort studies, separate analyses were performed for total, industrially produced 
+and ruminant TFA, because most studies did not differentiate between industrially produced and ruminant TFA and only 
+reported results for total TFA intake. For the regression analysis of total TFA, all trials that assessed either total, industrially 
+produced or ruminant TFA intake were included in a single analysis. 2 Results for effects of industrially produced and ruminant TFA on all-cause mortality and CVDs came from studies in which 
+dietary intake was assessed by tissue measurements. Although the NUGAG Subgroup on Diet and Health expressed concerns 
+with the assessment of dietary intake of SFA via tissue measurements, the correlation between TFA measured in tissue and 
+dietary intake has generally been shown to be stronger (60). Results for effects of industrially produced and ruminant TFA on 
+coronary heart disease came from studies in which dietary intake was self-reported. 3 The two trials that reported ruminant TFA intakes at levels more similar to the intakes reported for industrially produced TFA 
+(i.e. >2% of total energy intake) reported greater reductions in LDL cholesterol (61, 62).
+6
+Intake of ruminant TFA in the studies included in the analyses of both prospective observational studies 
+and RCTs was very low relative to intake of industrially produced TFA, and the difference between lower and 
+higher intakes was very small. The available evidence suggests that differences in effects on health outcomes 
+between ruminant, industrially produced and total TFA observed in many studies may be due to differences 
+in the amount of TFA being consumed rather than differences between types of TFA. To further assess the 
+nature of the observed differences, post hoc analyses were conducted in which the intakes observed in the 
+studies of ruminant TFA were approximated in the studies of total TFA, such that the highest intakes of total 
+TFA were limited to 0.7–1.3% of total energy intake and then compared with the lowest intakes. When total 
+TFA intake was assessed in this manner, the associations and dose–response relationships originally observed 
+between lower TFA intake and reduced risk of all-cause mortality remained, but those for CVDs and coronary 
+heart disease were no longer present. Based on these observations, the NUGAG Subgroup on Diet and Health 
+concluded that, at the low levels of ruminant TFA intake in the small number of studies, the difference between 
+the lowest and highest intakes was not large enough to allow reliable comparisons. It was further noted that in 
+the very few studies assessing LDL cholesterol in which the highest levels of ruminant TFA intake were closer 
+to those observed for industrially produced and total TFA, the effects of ruminant TFA intake were similar to, 
+or more pronounced than, those observed for industrially produced and total TFA.
+It was therefore determined that the available evidence did not support making a distinction between 
+industrially produced and ruminant TFA. Because the vast majority of studies included in the systematic 
+reviews reported results for total TFA intake (which includes intake from industrially produced and ruminant 
+sources), it was considered appropriate to consider only evidence from total TFA when formulating the 
+recommendations on TFA intake.
+Conjugated linoleic acid (CLA). CLA is found in fat from ruminant animals and represents several isomers 
+of linoleic acid in which the two double bonds are conjugated (i.e. separated by a single bond), resulting in a 
+three-dimensional shape that is different from most other TFA isomers. As CLA contains both cis and trans 
+configurations, RCTs assessing CLA as it naturally occurs in foods (i.e. not from supplements) were included 
+in the systematic review and regression analyses of blood lipids, although the number of such trials was 
+limited and intakes of CLA were very low. Nevertheless, results of these trials provided no indication that 
+CLA had an effect on blood lipids that was significantly different from other TFA when consumed at similar 
+levels. The NUGAG Subgroup on Diet and Health therefore concluded that, because CLA contributes to total 
+TFA intake, it should be included in the definition of TFA as used in the recommendations on TFA.
+Recommendations and supporting information
+All recommendations for SFA and TFA should be considered in the context of other WHO guidelines on healthy 
+diets, including those on total fat (63), polyunsaturated fatty acids (3),
+1
+ sugars (64), sodium (65), potassium (66) 
+and carbohydrates (67). An explanation of the strength of WHO recommendations can be found in Box 1.
+SFA recommendations
+1. WHO recommends that adults and children reduce saturated fatty acid intake to 10% of total 
+energy intake (strong recommendation).
+2. WHO suggests further reducing saturated fatty acid intake to less than 10% of total energy intake 
+(conditional recommendation).
+3. WHO recommends replacing saturated fatty acids in the diet with polyunsaturated fatty acids 
+(strong recommendation); monounsaturated fatty acids from plant sources (conditional 
+recommendation); or carbohydrates from foods containing naturally occurring dietary fibre, such 
+as whole grains, vegetables, fruits and pulses (conditional recommendation).
+1 WHO guidance on polyunsaturated fatty acids is currently being updated.
+7
+Rationale and remarks 
+The following provides the reasoning (rationale) behind the formulation of the recommendations, as well 
+as remarks designed to provide context for the recommendations and facilitate their interpretation and 
+implementation. This information is also provided for the recommendations on TFA.
+Rationale for SFA recommendations 1 and 2
+▶ Recommendations 1 and 2 are based on evidence from four systematic reviews that assessed the effects 
+of lower compared with higher SFA intake. These systematic reviews found that lower SFA intake reduced 
+the risk of all-cause mortality and CVDs. The overall certainty in the evidence for recommendation 1 was 
+moderate, and for recommendation 2 was very low.
+▶ Specific findings from the reviews supporting these recommendations include the following.
+ As assessed in RCTs in the systematic review by Hooper et al. (55), reducing SFA intake reduced 
+the risk of CVDs in adults (moderate certainty evidence); greater reductions in SFA intake 
+resulted in greater reduction in risk. No effect, or effects that trended towards reduced risk of 
+CVDs, were observed for other critical outcomes; none suggested increased risk. All but one of 
+the trials included in the analyses reported SFA intakes of more than 10% of total energy intake 
+at baseline, and although stepwise testing of thresholds of intake did not find a clear effect on 
+any cardiovascular or mortality outcome at SFA intakes of less than 10% of total energy intake, 
+significant reductions in risk of CVDs and CVD mortality were observed with SFA intakes of less 
+than 9% of total energy intake. Consequently, there is ample evidence supporting reduction of 
+SFA intake to 10% of total energy, but only limited evidence supporting a reduction to below 
+10% of total energy intake.
+ As assessed in prospective observational studies in the systematic review by Reynolds et al. (56), 
+lower SFA intake compared with higher intake (very low certainty evidence) and consuming SFA at a
+level of less than 10% of total energy intake compared with intakes greater than 10% (low certainty 
+evidence) are associated with reduced risk of all-cause mortality in adults.
+ As assessed in RCTs and strictly controlled feeding trials in the systematic review by Mensink (57), 
+replacing SFA with polyunsaturated fatty acids, monounsaturated fatty acids and carbohydrates all 
+resulted in reductions in low-density lipoprotein (LDL) cholesterol in adults (high certainty evidence). 
+The LDL cholesterol-lowering effects of replacing saturated fatty acids with other nutrients are 
+cumulative – that is, the more SFA intake is reduced, the more LDL cholesterol is lowered. The effects 
+Box 1. Strength of WHO recommendations
+WHO recommendations can either be strong or conditional, based on a number of factors including 
+overall certainty in the supporting scientific evidence, balance of desirable and undesirable 
+consequences, and others as noted elsewhere in this summary.
+Strong recommendations are those recommendations for which the WHO guideline development 
+group is confident that the desirable consequences of implementing the recommendation outweigh 
+the undesirable consequences. Strong recommendations can be adopted as policy in most situations.
+Conditional recommendations are those recommendations for which the WHO guideline development 
+group is less certain that the desirable consequences of implementing the recommendation outweigh 
+the undesirable consequences or when the anticipated net benefits are very small. Therefore, 
+substantive discussion amongst policy-makers may be required before a conditional recommendation 
+can be adopted as policy.
+The reasoning behind the strength of the recommendation(s) in this guideline is provided in the 
+rationale for the recommendation(s). Additional information on assessing the strength of WHO 
+recommendations can be found in the WHO handbook for guideline development (54).
+8
+were observed down to SFA intakes of 2% of total energy intake (effects were observed across a wide 
+range of SFA intakes, from 2% to 24% of total energy intake).
+ Reducing SFA intake, as assessed in RCTs conducted in children (58), resulted in reduced LDL 
+cholesterol and blood pressure (both high certainty evidence). All but one of the trials included in 
+the analyses reported SFA intakes of more than 10% of total energy intake at baseline and very 
+limited evidence suggests that reducing SFA intake to less than 10% of total energy intake reduces 
+LDL cholesterol to a greater extent than reducing intake to a level higher than 10% of total energy 
+intake (moderate certainty evidence).
+▶ Evidence from the systematic review by Hooper et al. (55) did not suggest undesirable effects in adults 
+from reduced SFA intake with respect to any of the critical outcomes, cancer incidence or mortality, 
+serum lipids, blood pressure, measures of body fatness, or quality of life. Rather, the evidence suggested 
+small benefits or no effect. Evidence from the systematic review by Mensink (57) suggested a slight 
+increase in triglycerides and a reduction in high-density lipoprotein (HDL) cholesterol when SFA are 
+replaced by carbohydrates of mixed composition. However, the clinical relevance of such changes is 
+not clear (68). This finding was therefore not an influential consideration in the balance of desirable and 
+undesirable effects, given the evidence for disease and mortality outcomes, and taking into account 
+recommendation 3 on replacement nutrients for SFA. Evidence from the systematic review conducted in 
+children indicates that reducing SFA intake does not compromise children’s linear growth, micronutrient 
+status, cognitive development or sexual development (58). No other data on undesirable effects in adults 
+or children were identified.
+▶ Recommendation 1 was assessed as strong because evidence of moderate certainty overall from 
+different study types assessing both risk factors and incidence of CVDs suggested reduced risk of CVDs 
+with lower SFA intake. No undesirable effects or other mitigating factors were identified that would 
+argue against a lower SFA intake.
+▶ Recommendation 2 was assessed as conditional because, although evidence from different study types 
+from each of the systematic reviews suggested reduced risk of CVDs with SFA intakes of less than 10% of 
+total energy intake, the evidence is much more limited than for intakes greater than 10% of total energy 
+intake and therefore there is less confidence in it (very low certainty evidence overall). No undesirable 
+effects or other mitigating factors were identified that would argue against reducing SFA intake to less 
+than 10% of total energy intake. A conservative approach was therefore taken, leading to a conditional 
+recommendation.
+Rationale for SFA recommendation 3
+▶ Recommendation 3 is based on moderate certainty evidence overall for replacing SFA with 
+polyunsaturated fatty acids and low certainty evidence overall for replacing SFA with monounsaturated 
+fatty acids or carbohydrates. Evidence comes from four systematic reviews that assessed the effects 
+of lower compared with higher SFA intake via replacement nutrient analysis. These reviews found that 
+lower SFA intake reduced the risk of all-cause mortality, CVDs and coronary heart disease.
+▶ Specific findings from the reviews supporting this recommendation include the following.
+ Subgroup analysis of RCTs in the systematic review by Hooper et al. (55) showed a reduction in 
+risk of CVDs and coronary heart disease when SFA were replaced with polyunsaturated fatty acids 
+(moderate certainty evidence), but not when SFA were replaced by carbohydrates, monounsaturated 
+fatty acids (for which there was insufficient evidence to allow an adequate assessment) or protein.1
+ As assessed in prospective observational studies in the systematic review by Reynolds et al. (56), 
+replacing SFA with polyunsaturated fatty acids (low certainty evidence overall) or plant-based 
+monounsaturated fatty acids (moderate certainty evidence overall) was associated with reductions 
+in risk of CVDs, coronary heart disease and all-cause mortality. More limited evidence shows that 
+replacing SFA with carbohydrates, particularly those from whole grains and foods described by 
+1 In this review, polyunsaturated fatty acids were primarily from plant-based oils, rich in linoleic acid; carbohydrates were of 
+largely unknown, and likely mixed, composition; and little to no data were available for nature of the protein.
+9
+the authors of the individual studies as having a low glycaemic index, was associated with small 
+reductions in risk of CVDs and all-cause mortality (very low certainty evidence).
+ As assessed in RCTs and strictly controlled feeding studies in the systematic review by Mensink (57), 
+replacing SFA with polyunsaturated fatty acids, monounsaturated fatty acids or carbohydrates1 all 
+resulted in reductions in LDL cholesterol (high certainty evidence). The greatest reduction in LDL 
+cholesterol was observed for polyunsaturated fatty acids, followed by monounsaturated fatty acids 
+and then carbohydrates.
+ Very limited evidence from RCTs conducted in children (58) suggests that replacing SFA with 
+polyunsaturated fatty acids or monounsaturated fatty acids reduces LDL cholesterol to a greater 
+extent than replacing SFA with other nutrients (moderate certainty evidence).
+▶ The evidence for the health benefits of replacing SFA with carbohydrates from whole grains, vegetables, 
+fruits and pulses is based on studies in which the composition of the carbohydrates was either unspecified 
+and therefore likely a mixture, or were reported as coming from whole grains or foods described by 
+the authors of the individual studies as having a low glycaemic index. Although the evidence from the 
+systematic reviews that informed the development of this recommendation did not specifically assess 
+the replacement of SFA with carbohydrates from vegetables, fruits or pulses (whole grains were assessed 
+directly), robust evidence from systematic reviews informing WHO recommendations on carbohydrate 
+intake (69–74) indicates that consuming whole grains, vegetables, fruits and pulses is associated with 
+health benefits, and therefore that carbohydrates in the diet should primarily come from these foods (67).
+▶ The recommendation for replacing SFA with polyunsaturated fatty acids from plant sources was 
+assessed as strong because evidence of moderate certainty overall from different study types that 
+assessed both risk factors and disease incidence suggested that such replacement reduces the risk of 
+CVDs and all-cause mortality.
+▶ The recommendations for replacing SFA with monounsaturated fatty acids from plant sources or 
+carbohydrates from whole grains, vegetables, fruits and pulses was assessed as conditional because 
+they are primarily based on evidence from observational studies, and also because vegetables, fruits 
+and pulses were not directly assessed in the prospective cohort studies assessing replacement (whole 
+grains were assessed directly).
+Remarks for Recommendation 3
+▶ To facilitate implementing this recommendation, replacing SFA can be achieved via a single 
+recommended nutrient or a combination of nutrients.
+▶ For further guidance on consumption of whole grains, vegetables, fruits and pulses, see the WHO 
+guideline on carbohydrate intake (67).
+▶ The guidance on replacement nutrients is relevant for a state of energy balance, in which total energy 
+consumed is balanced by total energy expended. For energy balance, when the intake of one nutrient 
+is reduced, the resulting energy deficit must be compensated for by intake of another nutrient. In cases 
+of positive energy balance, and where a reduction in total energy intake is desired, SFA intake may be 
+reduced in part or entirely without the need for a replacement nutrient.
+Remarks for all SFA recommendations
+▶ The recommendations as they apply to children are based on the totality of evidence, including both 
+results of the review conducted in children and extrapolation of the results obtained from the reviews 
+conducted in adults.
+▶ The systematic review of prospective observational studies by Reynolds et al. (56) identified studies 
+in which SFA exposures were assessed either by self-reported dietary intakes or measurement 
+1 In this review, polyunsaturated fatty acids were predominantly linoleic acid and α-linolenic acid; monounsaturated fatty 
+acids were predominantly oleic acid; and carbohydrates were of largely unknown, and likely mixed, composition.
+10
+of SFA in tissues (e.g. plasma phospholipids, red blood cells, fat biopsies). The results for some 
+outcomes differed between the two methods of exposure assessment: significant reductions in risk 
+were observed for coronary heart disease and type 2 diabetes in studies where SFA intake was 
+assessed by measuring SFA content of tissues, whereas no or non-significant results were observed 
+for all outcomes in studies where SFA intake was assessed by self-reported dietary intakes, 
+when replacement is not considered. Although assessment of SFA in tissues can be a relatively 
+reliable indicator of dietary intake, the potential contribution of endogenous synthesis cannot 
+be consistently estimated. Therefore, although the results for SFA tissue levels in the systematic 
+review provide evidence of benefit of lower SFA tissue levels and generally support the evidence 
+from other studies and analyses, the evidence from tissue levels was not formally assessed or 
+included in the evidence base supporting the recommendations for SFA intake.
+▶ Although there is evidence for differential effects of individual SFA, it is insufficient to inform the 
+development of specific recommendations. SFA found naturally in foods are generally mixtures; 
+consequently, intakes of individual SFA tend to be highly correlated with one another (75). Therefore, 
+recommendations for individual SFA may be of limited utility to end users and difficult to implement – 
+for example, in developing food-based dietary guidelines. Before recommendations can be made for 
+individual SFA, further research is needed into their health effects and how such recommendations 
+might be effectively used.
+▶ These recommendations do not preclude consumption of particular foods. However, foods containing 
+high levels of SFA should be consumed sparingly to meet the recommended level of intake.
+TFA recommendations
+1. WHO recommends that adults and children reduce trans-fatty acid intake to 1% of total energy 
+intake (strong recommendation).
+2. WHO suggests further reducing trans-fatty acid intake to less than 1% of total energy intake 
+(conditional recommendation).
+3. WHO recommends replacing trans-fatty acids in the diet with polyunsaturated fatty acids or 
+monounsaturated fatty acids primarily from plant sources (conditional recommendation).
+Rationale for TFA recommendations 1 and 2
+▶ Recommendations 1 and 2 are based on evidence from two systematic reviews that assessed the 
+effects of lower compared with higher TFA intake. These systematic reviews found that lower TFA intake 
+reduced the risk of CVDs. The overall certainty in the evidence for recommendation 1 was moderate and 
+for recommendation 2 was low.
+▶ Specific findings from the reviews supporting these recommendations include the following.
+ As assessed in prospective observational studies in the systematic review by Reynolds et al. (56), 
+lower TFA intake compared with higher intake (moderate certainty evidence overall) and consuming 
+TFA at a level of less than 1% of total energy intake compared with intakes greater than 1% (low 
+certainty evidence overall) were associated with reduced risk of all-cause mortality, CVDs and 
+coronary heart disease. Greater reductions in TFA intake resulted in greater reductions in risk of allcause mortality and coronary heart disease (i.e. dose–response relationships).
+ As assessed in RCTs in the systematic review by Brouwer (59), replacing TFA with polyunsaturated fatty 
+acids, monounsaturated fatty acids and carbohydrates all resulted in reductions in LDL cholesterol 
+(high certainty evidence) and overall improvements in blood lipid profile. The LDL cholesterol– lowering 
+effects of replacing TFA with other nutrients are cumulative – that is, the more TFA intake is reduced, the 
+more LDL cholesterol is lowered. These effects were observed were observed across a wide range of TFA 
+intakes, from 0% to 10.9% of total energy intake.
+11
+▶ Recommendation 1 was assessed as strong because evidence of overall moderate certainty from 
+different study types assessing both risk factors and incidence of CVDs suggested reduced risk of allcause mortality, CVDs and coronary heart disease with lower TFA intake (in a dose-dependent manner 
+with respect to all-cause mortality and coronary heart disease). No undesirable effects or other 
+mitigating factors were identified that would argue against a lower TFA intake.
+▶ Recommendation 2 was assessed as conditional because, although there is evidence from different 
+study types from each of the systematic reviews suggesting reduced risk of all-cause mortality, CVDs 
+and coronary heart disease with TFA intakes of less than 1% of total energy intake, the evidence is more 
+limited than for intakes greater than 1% of total energy intake and therefore there is less confidence in it 
+(low certainty evidence overall). No undesirable effects or other mitigating factors were identified that 
+would argue against reducing TFA intake to less than 1% of total energy intake. A conservative approach 
+was therefore taken, leading to a conditional recommendation.
+Rationale for TFA recommendation 3
+▶ Recommendation 3 is based on very low certainty evidence overall for replacing TFA with polyunsaturated fatty acids and moderate certainty evidence overall for replacing TFA with monounsaturated 
+fatty acids from plant sources. Evidence comes from two systematic reviews that assessed the effects 
+of lower compared with higher TFA intake via replacement nutrient analysis. These reviews found 
+that lower TFA intake reduced the risk of all-cause mortality, CVDs, coronary heart disease and type 2 
+diabetes.
+▶ Specific findings from the reviews supporting this recommendation include the following.
+ As assessed in prospective observational studies in the systematic review by Reynolds et al. (56), 
+replacing TFA with polyunsaturated fatty acids was associated with reduced risk of type 2 diabetes 
+(very low certainty evidence), and replacing TFA with monounsaturated fatty acids from plant 
+sources was associated with reduced risk of all-cause mortality, CVDs and coronary heart disease 
+(moderate certainty evidence overall).
+ As assessed in RCTs in the systematic review by Brouwer (59), replacing TFA with polyunsaturated 
+fatty acids, monounsaturated fatty acids or carbohydrates resulted in reductions in LDL cholesterol 
+(high certainty evidence) and overall improvements in blood lipid profile. The greatest reduction in 
+LDL cholesterol was observed for polyunsaturated fatty acids, followed by monounsaturated fatty 
+acids and then carbohydrates.
+ Recommendation 3 was assessed as conditional because evidence for disease outcomes comes 
+only from a limited number of observational studies; most of the evidence is from RCTs with LDL 
+cholesterol as an outcome. The evidence for LDL cholesterol is of high certainty. However, although 
+LDL cholesterol is a well-established biomarker for measuring the effects of interventions on CVD 
+risk, and is considered by many to be a causal factor for atherosclerosis and coronary heart disease, 
+it is not a physical manifestation or confirmation of disease. Therefore, a conservative approach was 
+taken, leading to a conditional recommendation.
+Remarks for TFA recommendation 3
+▶ The recommendation to replace TFA with polyunsaturated fatty acids or monounsaturated fatty 
+acids from plant sources does not preclude replacing TFA with carbohydrates, as replacement with 
+carbohydrates significantly lowered LDL cholesterol in the analysis of RCTs that assessed blood 
+lipids. However, polyunsaturated fatty acids and monounsaturated fatty acids had greater effects on 
+LDL cholesterol when used as replacements for TFA, and replacement of TFA with monounsaturated 
+fatty acids from plant sources reduced the risk of coronary heart disease and all-cause mortality in 
+prospective observational studies. Limited evidence suggests that replacing TFA with carbohydrates of 
+unspecified composition also reduces the risk of type 2 diabetes, but that replacing TFA with free sugars 
+or carbohydrates described by study authors as refined carbohydrates has little effect on risk of coronary 
+heart disease. Therefore, a conclusive interpretation of the results for carbohydrate replacement of TFA 
+in the analyses supporting the recommendations in this guideline was not possible.
+12
+▶ Replacement of TFA with saturated fatty acids did not improve disease outcomes or blood lipids in the 
+two systematic reviews. Saturated fatty acids are therefore not a preferred replacement for TFA.
+▶ To facilitate implementing this recommendation, replacing TFA can be achieved via polyunsaturated 
+fatty acids or monounsaturated fatty acids alone, or a combination of the two.
+▶ This guidance on replacement nutrients is relevant for a state of energy balance, in which total energy 
+consumed is balanced by total energy expended. For energy balance, when the intake of one nutrient 
+is reduced, the resulting energy deficit must be compensated for by intake of another nutrient. In cases 
+of positive energy balance, and where a reduction in total energy intake is desired, TFA intake may be 
+reduced in part or entirely without the need for a replacement nutrient.
+Remarks for all TFA recommendations
+▶ Because there weren’t any relevant studies identified in a systematic review of TFA intake in children (58), 
+the recommendations as they apply to children are based on extrapolation of the results obtained from 
+the reviews conducted in adults.
+▶ For the purposes of these recommendations, TFA includes all fatty acids with a double bond in the trans
+configuration, regardless of whether the TFA come from ruminant sources or are produced industrially. 
+This definition includes conjugated linoleic acid.
+▶ These recommendations do not preclude consumption of particular foods. However, foods containing 
+high levels of industrially produced TFA should largely be avoided.
+Translation and implementation
+The recommendations in this guideline should be considered in conjunction with other WHO guidance on 
+healthy diets to guide effective policy actions and intervention programmes to promote healthy diets and 
+nutrition, and prevent diet-related NCDs.
+The recommendations in this and related WHO guidelines acknowledge that both quantity and quality of 
+fat consumed are important for maintaining health. Public health interventions should therefore aim to 
+reduce total fat intake where necessary (63), while reducing SFA and TFA intake, through replacement with 
+unsaturated fatty acids and/or carbohydrates, without increasing free sugars intake (64).
+A detailed discussion of how the recommendations on SFA and TFA intake might be implemented is beyond 
+the scope of this guideline, however they can be considered by policy-makers and programme managers 
+when discussing possible measures, including:
+▶ assessing current intake of SFA and TFA in their populations relative to benchmarks;
+▶ developing policy measures to reduce intake of SFA and/or TFA, where necessary, through a range of 
+public health interventions, many of which are already being implemented by countries, including:
+ nutrition labelling (i.e. mandatory nutrient declaration) and front-of-pack labelling systems
+ regulation of marketing of foods and non-alcoholic beverages that are high in SFA and/or TFA, 
+including bans on marketing of foods that contain industrially produced TFA
+ restriction of the sale and promotion of foods and beverages that are high in SFA and/or TFA in and 
+around schools
+ implementation of fiscal policies targeting foods and beverages that are high in SFA and/or TFA
+ consumer education;
+▶ developing strategies to reformulate food products; and
+▶ translating the recommendations at the country-level into culturally and contextually specific foodbased dietary guidelines that take into account locally available foods and dietary customs.
+Elimination of industrially produced TFA is among the priority actions identified by WHO in its 13th General 
+Programme of Work, which will guide the work of WHO in 2019–2023. Industrially produced TFA are the 
+13
+predominant source of dietary TFA in many populations. They can be found in baked and fried foods 
+(e.g. doughnuts, cookies, crackers, pies), pre-packaged snacks and food, and partially hydrogenated 
+cooking oils and fats, which are often used in homes, in restaurants and in the informal sector (e.g. by 
+street vendors). Therefore, removing industrially produced TFA from the food supply through legislation 
+or regulatory action represents a well-defined mechanism for translating the recommendations in this 
+guideline into action and achieving significant reductions in TFA intake at the population level.
+In 2018, WHO released the REPLACE action package, which provides support for implementing the WHO 
+recommendations on TFA and is a roadmap for countries to achieve prompt, complete and sustained 
+elimination of industrially produced TFA from the food supply. In 2019, WHO released six REPLACE 
+modules, which provide practical, step-by-step implementation guidance to support governments. WHO 
+recommends that countries adopt and implement one of two best-practice policy options for eliminating 
+industrially produced TFA from the food supply. Before the release of REPLACE, industrially produced 
+TFA had already largely been removed or were in the process of being removed from the food supply at 
+the national and subnational levels in many countries (9, 76, 77). As of September 2022, 60 countries had 
+implemented mandatory TFA limits; of these, 43 countries had implemented a best-practice TFA policy that 
+either virtually eliminates industrially produced TFA or bans partially hydrogenated oils (78), demonstrating 
+that global reduction in TFA intake may be an achievable goal.
+Providing comprehensive dietary guidance is beyond the scope of these guidelines, because such guidance 
+should be based on overall dietary goals that consider all required nutrients. However, it is feasible to 
+achieve the recommendations in this guideline while respecting national dietary customs, because 
+a wide variety of fresh foods are naturally low in SFA and TFA, and reduced-fat versions of whole foods 
+(e.g. reduced-fat dairy foods, lean cuts of meat) are available.
+14
+References 
+References for which a URL is listed were last accessed on 1 January 2023.
+1. Global Health Observatory data. Noncommunicable diseases mortality and morbidity. Geneva: World 
+Health Organization; 2021 (http://www.who.int/gho/ncd/mortality_morbidity/en/).
+2. Roth GA, Mensah GA, Johnson CO, Addolorato G, Ammirati E, Baddour LM, et al. Global burden of 
+cardiovascular diseases and risk factors, 1990–2019: update from the GBD 2019 study. J Am Coll 
+Cardiol. 2020;76(25):2982–3021.
+3. Diet, nutrition and the prevention of chronic diseases: report of a Joint WHO/FAO expert consultation. 
+Geneva: World Health Organization; 2003 (https://apps.who.int/iris/handle/10665/42665).
+4. Yoshinaga K, Asanuma M, Mizobe H, Kojima K, Nagai T, Beppu F, et al. Characterization of cis- and transoctadecenoic acid positional isomers in edible fat and oil using gas chromatography– flame ionisation 
+detector equipped with highly polar ionic liquid capillary column. Food Chem. 2014;160:39–45.
+5. Ratnayake WM, Chen ZY. Trans, n-3, and n-6 fatty acids in Canadian human milk. Lipids. 
+1996;31(Suppl):S279–82.
+6. Stender S, Astrup A, Dyerberg J. Ruminant and industrially produced trans fatty acids: health 
+aspects. Food Nutr Res. 2008;52.
+7. Jakobsen MU, Bysted A, Andersen NL, Heitmann BL, Hartkopp HB, Leth T, et al. Intake of ruminant 
+trans fatty acids in the Danish population aged 1–80 years. Eur J Clin Nutr. 2006;60(3):312–18.
+8. Craig-Schmidt MC. World-wide consumption of trans fatty acids. Atheroscler Suppl. 2006;7(2):1–4.
+9. Eliminating trans fats in Europe: a policy brief. Copenhagen: World Health Organization Regional 
+Office for Europe; 2015 (https://apps.who.int/iris/handle/10665/363877).
+10. Jakobsen MU, O’Reilly EJ, Heitmann BL, Pereira MA, Balter K, Fraser GE, et al. Major types of dietary 
+fat and risk of coronary heart disease: a pooled analysis of 11 cohort studies. Am J Clin Nutr. 
+2009;89(5):1425–32.
+11. Mozaffarian D, Micha R, Wallace S. Effects on coronary heart disease of increasing polyunsaturated fat 
+in place of saturated fat: a systematic review and meta-analysis of randomized controlled trials. PLoS 
+Med. 2010;7(3):e1000252.
+12. Farvid MS, Ding M, Pan A, Sun Q, Chiuve SE, Steffen LM, et al. Dietary linoleic acid and risk of coronary 
+heart disease: a systematic review and meta-analysis of prospective cohort studies. Circulation. 
+2014;130(18):1568–78.
+13. Li Y, Hruby A, Bernstein AM, Ley SH, Wang DD, Chiuve SE, et al. Saturated fats compared with 
+unsaturated fats and sources of carbohydrates in relation to risk of coronary heart disease: a 
+prospective cohort study. J Am Coll Cardiol. 2015;66(14):1538–48.
+14. Jakobsen MU, Dethlefsen C, Joensen AM, Stegger J, Tjonneland A, Schmidt EB, et al. Intake of 
+carbohydrates compared with intake of saturated fatty acids and risk of myocardial infarction: 
+importance of the glycemic index. Am J Clin Nutr. 2010;91(6):1764–8.
+15. Siri-Tarino PW, Sun Q, Hu FB, Krauss RM. Meta-analysis of prospective cohort studies evaluating the 
+association of saturated fat with cardiovascular disease. Am J Clin Nutr. 2010;91(3):535–46.
+15
+16. Bendsen NT, Christensen R, Bartels EM, Astrup A. Consumption of industrial and ruminant trans fatty 
+acids and risk of coronary heart disease: a systematic review and meta-analysis of cohort studies. Eur 
+J Clin Nutr. 2011;65(7):773–83.
+17. Mozaffarian D, Clarke R. Quantitative effects on cardiovascular risk factors and coronary heart 
+disease risk of replacing partially hydrogenated vegetable oils with other fats and oils. Eur J Clin Nutr. 
+2009;63(Suppl 2):S22–33.
+18. Brouwer IA, Wanders AJ, Katan MB. Trans fatty acids and cardiovascular health: research completed? 
+Eur J Clin Nutr. 2013;67(5):541–7.
+19. Mensink RP, Zock PL, Kester AD, Katan MB. Effects of dietary fatty acids and carbohydrates on the 
+ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 
+controlled trials. Am J Clin Nutr. 2003;77(5):1146–55.
+20. Forouhi NG, Koulman A, Sharp SJ, Imamura F, Kroger J, Schulze MB, et al. Differences in the 
+prospective association between individual plasma phospholipid saturated fatty acids and incident 
+type 2 diabetes: the EPIC-InterAct case–cohort study. Lancet Diabetes Endocrinol. 2014;2(10):810–18.
+21. Guo J, Astrup A, Lovegrove JA, Gijsbers L, Givens DI, Soedamah-Muthu SS. Milk and dairy 
+consumption and risk of cardiovascular diseases and all-cause mortality: dose–response metaanalysis of prospective cohort studies. Eur J Epidemiol. 2017;32(4):269–87.
+22. de Goede J, Soedamah-Muthu SS, Pan A, Gijsbers L, Geleijnse JM. Dairy consumption and risk of 
+stroke: a systematic review and updated dose–response meta-analysis of prospective cohort studies. 
+J Am Heart Assoc. 2016;5(5):e002787.
+23. Gijsbers L, Ding EL, Malik VS, de Goede J, Geleijnse JM, Soedamah-Muthu SS. Consumption of dairy 
+foods and diabetes incidence: a dose–response meta-analysis of observational studies. Am J Clin 
+Nutr. 2016;103(4):1111–24.
+24. Pimpin L, Wu JH, Haskelberg H, Del Gobbo L, Mozaffarian D. Is butter back? A systematic review 
+and meta-analysis of butter consumption and risk of cardiovascular disease, diabetes, and total 
+mortality. PloS One. 2016;11(6):e0158118.
+25. Steur M, Johnson L, Sharp SJ, Imamura F, Sluijs I, Key TJ, et al. Dietary fatty acids, macronutrient 
+substitutions, food sources and incidence of coronary heart disease: findings from the EPIC-CVD 
+case–cohort study across nine European countries. J Am Heart Assoc. 2021;10(23):e019814.
+26. Trieu K, Bhat S, Dai Z, Leander K, Gigante B, Qian F, et al. Biomarkers of dairy fat intake, incident 
+cardiovascular disease, and all-cause mortality: a cohort study, systematic review, and metaanalysis. PLoS Med. 2021;18(9):e1003763.
+27. Brouwer IA, Wanders AJ, Katan MB. Effect of animal and industrial trans fatty acids on HDL and LDL 
+cholesterol levels in humans: a quantitative review. PloS One. 2010;5(3):e9434.
+28. Mozaffarian D, Katan MB, Ascherio A, Stampfer MJ, Willett WC. Trans fatty acids and cardiovascular 
+disease. N Engl J Med. 2006;354(15):1601–13.
+29. Santos S, Oliveira A, Lopes C. Systematic review of saturated fatty acids on inflammation and 
+circulating levels of adipokines. Nutr Res. 2013;33(9):687–95.
+30. Lewington S, Whitlock G, Clarke R, Sherliker P, Emberson J, Halsey J, et al. Blood cholesterol and 
+vascular mortality by age, sex, and blood pressure: a meta-analysis of individual data from 61 
+prospective studies with 55,000 vascular deaths. Lancet. 2007;370(9602):1829–39.
+31. Fulcher J, O’Connell R, Voysey M, Emberson J, Blackwell L, Mihaylova B, et al. Efficacy and safety 
+of LDL-lowering therapy among men and women: meta-analysis of individual data from 174,000 
+participants in 27 randomised trials. Lancet. 2015;385(9976):1397–405.
+32. Committee on Qualification of Biomarkers and Surrogate Endpoints in Chronic Disease, Board on 
+Health Sciences Policy, Food and Nutrition Board, Institute of Medicine. Evaluation of biomarkers and 
+surrogate endpoints in chronic disease. Washington DC: National Academies Press; 2010.
+16
+33. Ference BA, Ginsberg HN, Graham I, Ray KK, Packard CJ, Bruckert E, et al. Low-density lipoproteins 
+cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical 
+studies. A consensus statement from the European Atherosclerosis Society Consensus Panel. Eur 
+Heart J. 2017;38(32):2459–72.
+34. Berenson GS, Wattigney WA, Tracy RE, Newman WP 3rd, Srinivasan SR, Webber LS, et al. 
+Atherosclerosis of the aorta and coronary arteries and cardiovascular risk factors in persons aged 6 to 
+30 years and studied at necropsy (the Bogalusa Heart Study). Am J Cardiol. 1992;70(9):851–8.
+35. Strong JP, Malcom GT, McMahan CA, Tracy RE, Newman WP 3rd, Herderick EE, et al. Prevalence and 
+extent of atherosclerosis in adolescents and young adults: implications for prevention from the 
+Pathobiological Determinants of Atherosclerosis in Youth Study. JAMA. 1999;281(8):727–35.
+36. Berenson GS, Srinivasan SR, Bao W, Newman WP 3rd, Tracy RE, Wattigney WA. Association between 
+multiple cardiovascular risk factors and atherosclerosis in children and young adults: the Bogalusa 
+Heart Study. N Engl J Med. 1998;338(23):1650–6.
+37. McGill HC Jr, McMahan CA, Malcom GT, Oalmann MC, Strong JP. Effects of serum lipoproteins and 
+smoking on atherosclerosis in young men and women. The PDAY Research Group. Pathobiological 
+Determinants of Atherosclerosis in Youth. Arterioscler Thromb Vasc Biol. 1997;17(1):95–106.
+38. Srinivasan SR, Frontini MG, Xu J, Berenson GS. Utility of childhood non-high-density lipoprotein 
+cholesterol levels in predicting adult dyslipidemia and other cardiovascular risks: the Bogalusa Heart 
+Study. Pediatrics. 2006;118(1):201–6.
+39. Davis PH, Dawson JD, Riley WA, Lauer RM. Carotid intimal-medial thickness is related to 
+cardiovascular risk factors measured from childhood through middle age: the Muscatine Study. 
+Circulation. 2001;104(23):2815–19.
+40. Raitakari OT, Juonala M, Kahonen M, Taittonen L, Laitinen T, Maki-Torkko N, et al. Cardiovascular risk 
+factors in childhood and carotid artery intima-media thickness in adulthood: the Cardiovascular Risk 
+in Young Finns Study. JAMA. 2003;290(17):2277–83.
+41. Li S, Chen W, Srinivasan SR, Bond MG, Tang R, Urbina EM, et al. Childhood cardiovascular risk factors 
+and carotid vascular changes in adulthood: the Bogalusa Heart Study. JAMA. 2003;290(17):2271–6.
+42. Lorenz MW, Markus HS, Bots ML, Rosvall M, Sitzer M. Prediction of clinical cardiovascular events with 
+carotid intima-media thickness: a systematic review and meta-analysis. Circulation. 2007;115(4):
+459–67.
+43. Stein EA, Shapero J, McNerney C, Glueck CJ, Tracy T, Gartside P. Changes in plasma lipid and 
+lipoprotein fractions after alteration in dietary cholesterol, polyunsaturated, saturated, and total fat 
+in free-living normal and hypercholesterolemic children. Am J Clin Nutr. 1982;35(6):1375–90.
+44. Vartiainen E, Puska P, Pietinen P, Nissinen A, Leino U, Uusitalo U. Effects of dietary fat modifications 
+on serum lipids and blood pressure in children. Acta Paediatr Scand. 1986;75(3):396–401.
+45. Stein EA, Mendelsohn D, Fleming M, Barnard GD, Carter KJ, du Toit PS, et al. Lowering of plasma 
+cholesterol levels in free-living adolescent males; use of natural and synthetic polyunsaturated foods 
+to provide balanced fat diets. Am J Clin Nutr. 1975;28(11):1204–16.
+46. Kaufmann RL, Assal J, Soeldner JS, Wilmshurst EG, Lemaire JR, Gleason RE, et al. Plasma lipid 
+levels in diabetic children: effect of diet restricted in cholesterol and saturated fats. Diabetes. 
+1975;24(7):672–9.
+47. McGandy RB, Hall B, Ford C, Stare FJ. Dietary regulation of blood cholesterol in adolescent males: a 
+pilot study. Am J Clin Nutr. 1972;25(1):61–6.
+48. Ford CH, McGandy RB, Stare FJ. An institutional approach to the dietary regulation of blood 
+cholesterol in adolescent males. Prev Med. 1972;1(3):426–45.
+49. Kaplan RM, Toshima MT. Does a reduced fat diet cause retardation in child growth? Prev Med. 
+1992;21(1):33–52.
+17
+50. Mauer AM. Should there be intervention to alter serum lipids in children? Annu Rev Nutr. 1991;11:375– 91.
+51. Micha R, Khatibzadeh S, Shi P, Fahimi S, Lim S, Andrews KG, et al. Global, regional, and national 
+consumption levels of dietary fats and oils in 1990 and 2010: a systematic analysis including 266 
+country-specific nutrition surveys. BMJ. 2014;348:g2272.
+52. Wanders AJ, Zock PL, Brouwer IA. Trans fat intake and its dietary sources in general populations 
+worldwide: a systematic review. Nutrients. 2017;9(8):840.
+53. Diet, nutrition and the prevention of chronic diseases: report of a WHO Study Group. Geneva: World 
+Health Organization; 1990 (https://apps.who.int/iris/handle/10665/39426).
+54. WHO handbook for guideline development, second edition. Geneva: World Health Organization; 2014 
+(https://apps.who.int/iris/handle/10665/145714).
+55. Hooper L, Martin N, Jimoh OF, Kirk C, Foster E, Abdelhamid AS. Reduction in saturated fat intake for 
+cardiovascular disease. Cochrane Database Syst Rev. 2020;5(5):CD011737.
+56. Reynolds AN, Hodson L, De Souza R, Pham HTD, Vlietstra L, Mann J. Saturated fat and trans-fat 
+intakes and their replacement with other macronutrients: a systematic review and meta-analysis of 
+prospective observational studies. Geneva: World Health Organization; 2022 (https://apps.who.int/
+iris/handle/10665/366301).
+57. Mensink RP. Effects of saturated fatty acids on serum lipids and lipoproteins: a systematic review 
+and regression analysis. Geneva: World Health Organization; 2016 (https://apps.who.int/iris/ 
+handle/10665/246104).
+58. Te Morenga L, Montez JM. Health effects of saturated and trans-fatty acid intake in children and 
+adolescents: systematic review and meta-analysis. PloS One. 2017;12(11):e0186672.
+59. Brouwer I. Effect of trans-fatty acid intake on blood lipids and lipoproteins: a systematic review 
+and meta-regression analysis. Geneva: World Health Organization; 2016 (https://apps.who.int/iris/ 
+handle/10665/246109).
+60. Hodson L, Skeaff CM, Fielding BA. Fatty acid composition of adipose tissue and blood in humans and 
+its use as a biomarker of dietary intake. Prog Lipid Res. 2008;47(5):348–80.
+61. Desroches S, Chouinard PY, Galibois I, Corneau L, Delisle J, Lamarche B, et al. Lack of effect of dietary 
+conjugated linoleic acids naturally incorporated into butter on the lipid profile and body composition 
+of overweight and obese men. Am J Clin Nutr. 2005;82(2):309–19.
+62. Motard-Belanger A, Charest A, Grenier G, Paquin P, Chouinard Y, Lemieux S, et al. Study of the effect of 
+trans fatty acids from ruminants on blood lipids and other risk factors for cardiovascular disease. Am 
+J Clin Nutr. 2008;87(3):593–9.
+63. Total fat intake for the prevention of unhealthy weight gain in adults and children: WHO guideline. 
+Geneva: World Health Organization; 2023 (https://www.who.int/publications/i/item/9789240073654).
+64. Guideline: sugars intake for adults and children. Geneva: World Health Organization; 2015 
+(https://www.who.int/publications/i/item/9789241549028).
+65. Guideline: sodium intake for adults and children. Geneva: World Health Organization; 2012 
+(https://www.who.int/publications/i/item/9789241504836).
+66. Guideline: potassium intake for adults and children. Geneva: World Health Organization; 2012 
+(https://www.who.int/publications/i/item/9789241504829).
+67. Carbohydrate intake for adults and children: WHO guideline. Geneva: World Health Organization; 
+2023 (https://www.who.int/publications/i/item/9789240073593).
+68. Xiang AS, Kingwell BA. Rethinking good cholesterol: a clinicians’ guide to understanding HDL. Lancet 
+Diabetes Endocrinol. 2019;7(7):575–82.
+69. Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human 
+health: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434–45.
+18
+70. Aune D, Giovannucci E, Boffetta P, Fadnes LT, Keum N, Norat T, et al. Fruit and vegetable intake and 
+the risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and 
+dose–response meta-analysis of prospective studies. Int J Epidemiol. 2017;46(3):1029–56.
+71. Marventano S, Izquierdo Pulido M, Sánchez-González C, Godos J, Speciani A, Galvano F, et al. 
+Legume consumption and CVD risk: a systematic review and meta-analysis. Public Health Nutr. 
+2017;20(2):245–54.
+72. Afshin A, Micha R, Khatibzadeh S, Mozaffarian D. Consumption of nuts and legumes and risk of 
+incident ischemic heart disease, stroke, and diabetes: a systematic review and meta-analysis. Am J 
+Clin Nutr. 2014;100(1):278–88.
+73. Mytton OT, Nnoaham K, Eyles H, Scarborough P, Ni Mhurchu C. Erratum to: systematic review and 
+meta-analysis of the effect of increased vegetable and fruit consumption on body weight and energy 
+intake. BMC Public Health. 2017;17(1):662.
+74. Mytton OT, Nnoaham K, Eyles H, Scarborough P, Ni Mhurchu C. Systematic review and meta-analysis 
+of the effect of increased vegetable and fruit consumption on body weight and energy intake. BMC 
+Public Health. 2014;14:886.
+75. Zong G, Li Y, Wanders AJ, Alssema M, Zock PL, Willett WC, et al. Intake of individual saturated fatty 
+acids and risk of coronary heart disease in US men and women: two prospective longitudinal cohort 
+studies. BMJ. 2016;355:i5796.
+76. Downs SM, Thow AM, Leeder SR. The effectiveness of policies for reducing dietary trans fat: a 
+systematic review of the evidence. Bull World Health Organ. 2013;91(4):262–9H.
+77. L’Abbe MR, Stender S, Skeaff CM, Ghafoorunissa, Tavella M. Approaches to removing trans fats from 
+the food supply in industrialized and developing countries. Eur J Clin Nutr. 2009;63(S2):S50–S67.
+78. Countdown to 2023: WHO report on global trans-fat elimination 2022. Geneva: World Health 
+Organization; 2023 (https://apps.who.int/iris/handle/10665/365617).
+
+For more information, please contact:
+Department of Nutrition and Food Safety
+World Health Organization 
+Avenue Appia 20
+1211 Geneva 27
+Switzerland
+Email: nutrition@who.int
+https://www.who.int/teams/nutrition-and-food-safety

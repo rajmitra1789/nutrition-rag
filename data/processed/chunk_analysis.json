@@ -1,0 +1,86 @@
+{
+  "n_chunks": 76,
+  "protected_units": 16,
+  "by_document": {
+    "icmr_nin_my_plate": 10,
+    "sfa_reusing_cooking_oils": 3,
+    "who_healthy_diet": 15,
+    "who_sfa_tfa_guideline": 12,
+    "eatwell_guide": 15,
+    "health_canada_recommendations": 7,
+    "foodsafety_cold_storage": 14
+  },
+  "chars": {
+    "min": 34,
+    "median": 573,
+    "mean": 806.0,
+    "p95": 2391,
+    "max": 4301
+  },
+  "estimated_tokens": {
+    "min": 8,
+    "median": 135,
+    "mean": 176.3,
+    "p95": 475,
+    "max": 893,
+    "over_256": 18,
+    "over_512": 3,
+    "over_2048": 0,
+    "over_8192": 0
+  },
+  "over_512_chunks": [
+    {
+      "chunk_id": "icmr_nin_my_plate-001",
+      "section_heading": "Problem statement and summary",
+      "char_count": 2912,
+      "estimated_tokens": 599,
+      "protected": false
+    },
+    {
+      "chunk_id": "who_sfa_tfa_guideline-002",
+      "section_heading": "Background",
+      "char_count": 4301,
+      "estimated_tokens": 893,
+      "protected": false
+    },
+    {
+      "chunk_id": "who_sfa_tfa_guideline-009",
+      "section_heading": "Remarks for TFA recommendations",
+      "char_count": 2618,
+      "estimated_tokens": 524,
+      "protected": false
+    }
+  ],
+  "embedding_choice": {
+    "model": "jinaai/jina-embeddings-v2-small-en",
+    "window_tokens": 8192,
+    "dimensions": 512,
+    "onnx_gb": 0.12,
+    "query_prefix": "",
+    "fits_window": true,
+    "configured_model": "jinaai/jina-embeddings-v2-small-en",
+    "reason": "Measured max is 893 estimated tokens across 76 chunks (16 protected). all-MiniLM-L6-v2 (256) would truncate 18 chunks. bge-small-en-v1.5 (512, 33M, 384-d) would truncate 3 chunks, including the WHO SFA/TFA Background section. jina-embeddings-v2-small-en (8192 tokens, 33M, 512-d, 0.12 GB ONNX) covers every chunk and uses no query prefix. Served via FastEmbed so Streamlit Community Cloud does not load PyTorch.",
+    "rejected": [
+      {
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "window_tokens": 256,
+        "why": "256-token window truncates 18 chunks, including protected tables."
+      },
+      {
+        "model": "BAAI/bge-small-en-v1.5",
+        "window_tokens": 512,
+        "why": "512-token window truncates 3 unprotected paragraphs. The longest would lose about 380 of 893 tokens."
+      },
+      {
+        "model": "snowflake/snowflake-arctic-embed-m-long",
+        "window_tokens": 2048,
+        "why": "2048-token window fits, but the ONNX file is 0.54 GB and queries need a query: prefix."
+      },
+      {
+        "model": "nomic-ai/nomic-embed-text-v1.5",
+        "window_tokens": 8192,
+        "why": "8192-token window fits, but passages must be stored with a search_document: prefix and the ONNX file is 0.52 GB."
+      }
+    ]
+  }
+}
