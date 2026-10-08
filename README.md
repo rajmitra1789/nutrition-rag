@@ -103,6 +103,11 @@ python scripts/build_index.py
 
 Citations: each claim ends with a short tag `(Document name, Publisher, Year)`. Each document section header carries the full citation `(Document name, Publisher, Year, URL)`. When a document's passages do not answer, the model replies `NOT_COVERED` and that section is dropped. If every section is dropped, the not-in-corpus refusal names the documents searched.
 
+## Known limits
+
+- The out-of-scope check is a set of regex patterns, so it is deliberately blunt. It refuses some harmless population questions, for example a pure fact question about trans fat in pregnancy.
+- A personal health question phrased in a way the patterns miss can still reach the model. In that case the model replies NOT_COVERED and the user sees the "guidance does not cover this" message instead of the out-of-scope message.
+
 ## Run locally
 
 Python 3.12+ (`runtime.txt` records 3.12, the version used on Streamlit Cloud). A local 3.14 venv also works with the ONNX embedder. `requirements.txt` holds exact runtime pins; `requirements-dev.txt` adds `pytest` and the ingest helpers.
